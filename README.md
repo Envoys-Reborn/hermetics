@@ -3,6 +3,6 @@
 ## Forum Based Play-by-Post RPG
 
 The repository contains books and other references 
-to document myself to be able to create this enormous project
+serving as documentation to create this project
 
 &copy; 2025
